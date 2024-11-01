@@ -1,5 +1,5 @@
 /*
-Youtube Tech God
+whatsapp https://wa.me/+917478172267?text=*🌸⃝⃪꯭⃮⃕⃔⎯꯭᳝֟፝֟Arbaz-Khan‌-≛⃞*
 */
 const config = `
 HANDLERS=.
@@ -12,8 +12,8 @@ REJECT_CALL=false
 CALL_BLOCK=false
 SAVE_STATUS=false
 READ_MSG=false
-STICKER_PACKNAME=Tech-God;917466008456
-BOT_INFO=Tech-God;YT-Tech-God;https://files.catbox.moe/so4s1l.mp4
+STICKER_PACKNAME=Arbaz-Khan;917478172267
+BOT_INFO=*🌸⃝⃪꯭⃮⃕⃔⎯꯭᳝֟፝֟Arbaz-Khan͢-≛⃞🌼*;+917478172267;https://files.catbox.moe/msuj97.jpeg
 `;
 
 
